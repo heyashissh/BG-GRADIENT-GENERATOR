@@ -25,10 +25,6 @@ A simple and interactive web application that generates beautiful random gradien
 - Clipboard API
 - Debugging and Problem Solving
 
-## Live Demo
-
-Add your deployed project link here.
-
 ## Author
 
 Ashish Shrivastav
